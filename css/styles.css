@@ -1,3 +1,52 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+boxy{
+    background-color: darkgray;
+}
+
 h1 {
-    color: grey;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10px;
   }
+.ylaosa0{
+    background-color: rgb(70, 84, 121);
+    height: 50px;
+    padding: 5px;
+    margin: -10px -10px 0px;
+}
+.ylaosa1{
+    background-color: rgb(54, 50, 73);
+    height: 300px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.kuva{
+    border-radius: 30px;
+    position: absolute;
+    top: 100px;
+    border-style: solid;
+    border-color: grey;
+    left: 100px;
+}
+
+.info{
+    border-style: solid;
+    border-color: grey;
+    border-radius: 30px;
+    width: 400px;
+    height: 189px;
+    position: absolute;
+    left: 400px;
+    top: 100px;
+}
+
+.infoText{
+    font-size: 18px;
+    position: relative;
+    left: 65px;
+    top: 25px;
+    color: white;
+}
