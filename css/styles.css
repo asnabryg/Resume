@@ -17,6 +17,9 @@ h2{
     margin-left: 50px;
     margin-right: auto;
 }
+h3{
+    color: white;
+}
 .ylaosa0{
     background-color: rgb(70, 84, 121);
     height: 50px;
@@ -70,4 +73,12 @@ h2{
     color: white;
     font-size: 18px;
     line-height: 1.5;
+}
+.loppu{
+    position: relative;
+    max-width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+    padding-bottom: 150px;
 }
