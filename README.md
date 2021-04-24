@@ -1,6 +1,6 @@
 # Tietokone työvälineenä -kurssi
 Kurssilla harjoiteltiin:
-- linux -tietokoneen terminaalin käyttöjä ja erilaisia komentoja.
+- Linux terminaalin käyttöä ja erilaisia komentoja.
 - Githubin käyttöä
 - HTML ja CSS:n alkeet  
 
