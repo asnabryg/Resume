@@ -5,3 +5,4 @@ Kurssilla harjoiteltiin:
 - HTML ja CSS:n alkeet  
 
 index.hmtl tiedostossa pieni projekti HTML ja CSS harjoittelusta.
+https://asnabryg.github.io/Resume/
